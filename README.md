@@ -3,7 +3,8 @@
 __Main author:__    
 __Affiliation:__  Fisheries and Oceans Canada (DFO)   
 __Group:__        Marine Spatial Ecology and Analysis   
-__Location:__     Institute of Ocean Sciences   
+__Location:__     Institute of Ocean Sciences  
+__Affiliated publication:__
 __Contact:__      e-mail:  | tel:
 
 
