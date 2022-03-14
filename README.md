@@ -2,8 +2,8 @@
 
 __Main author:__    
 __Affiliation:__  Fisheries and Oceans Canada (DFO)   
-__Group:__        Marine Spatial Ecology and Analysis   
-__Location:__     Institute of Ocean Sciences  
+__Group:__        Laboratory of genomics   
+__Location:__     Maurice Lamontagne Institut  
 __Affiliated publication:__  
 __Contact:__      e-mail:  | tel:
 
@@ -15,6 +15,7 @@ __Contact:__      e-mail:  | tel:
   + [Subsections within contents](#subsections-within-contents)
 - [Methods](#methods)
   + [Subsections within methods](#subsections-within-methods)
+- [Main Results](#main-results)
 - [Requirements](#requirements)
 - [Caveats](#caveats)
 - [Uncertainty](#uncertainty)
@@ -45,6 +46,8 @@ What methods were used to achieve the purpose? This should be detailed as possib
 ### Subsections within methods
 Often useful to organise the methods under multiple subheadings.
 
+## Main Results
+*Optional section.* Links to important figures.
 
 ## Requirements
 *Optional section.* List the input data requirements or software requirements to successfully execute the code.
