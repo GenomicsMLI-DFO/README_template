@@ -3,7 +3,7 @@
 __Main author:__    
 __Affiliation:__  Fisheries and Oceans Canada (DFO)   
 __Group:__        Laboratory of genomics   
-__Location:__     Maurice Lamontagne Institut  
+__Location:__     Maurice Lamontagne Institute  
 __Affiliated publication:__  
 __Contact:__      e-mail:  | tel:
 
